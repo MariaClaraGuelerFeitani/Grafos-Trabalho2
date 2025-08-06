@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1754521441 source:c:\users\usuario\desktop\grafos\trabalho 2\t2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"grafo.h"
+	"dijkstra.h"
+
+1754520025 source:c:\users\usuario\desktop\grafos\trabalho 2\t2\dijkstra.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"dijkstra.h"
+
+1754519841 c:\users\usuario\desktop\grafos\trabalho 2\t2\dijkstra.h
+
+1754520025 source:c:\users\usuario\desktop\grafos\trabalho 2\t2\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"grafo.h"
+
+1754519841 c:\users\usuario\desktop\grafos\trabalho 2\t2\grafo.h
+
